@@ -4,10 +4,7 @@ This is a simple HTML/CSS resume template for Lokesh D, a Data Science Engineer 
 
 ## Table of Contents
 - [Features](#features)
-- [Setup](#setup)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
