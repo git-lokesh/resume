@@ -23,5 +23,3 @@ This is a simple HTML/CSS resume template for Lokesh D, a Data Science Engineer 
 
 ### Projects Section
 ![Projects](images/projects.png)
-
-## License
