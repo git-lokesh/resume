@@ -1,65 +1,100 @@
 ---
 name: LOKESH D
 header:
-  - text: <span class="iconify" data-icon="tabler:phone"></span> (+91) 6369391995 
+  - text: <span class="iconify" data-icon="teenyicons:phone-solid"></span> (+91) 6369391995 
     newLine: true
-  - text: <span class="iconify" data-icon="tabler:mail"></span> lokeshofficial2212@gmail.com
+  - text: <span class="iconify" data-icon="uiw:mail"></span> lokeshofficial2212@gmail.com
     link: mailto:lokeshofficial2212@gmail.com
-  - text: <span class="iconify" data-icon="tabler:brand-github"></span> git-lokesh
+  - text: <span class="iconify" data-icon="akar-icons:github-fill"></span> git-lokesh
     link: https://github.com/git-lokesh
-  - text: <span class="iconify" data-icon="logos:linkedin-icon"></span> LinkedIn
+  - text: <span class="iconify" data-icon="uiw:linkedin"></span> Lokesh D
     link: https://www.linkedin.com/in/lokesh-d-191266258
-  - text: <span class="iconify" data-icon="tabler:screen-share"></span> Portfolio
+  - text: <span class="iconify" data-icon="icon-park-solid:computer"></span> Portfolio
     link: https://git-lokesh.github.io/website/
-  - text: <span class="iconify" data-icon="tabler:map-pin"></span> Kolathur, Chennai - 600099</div>
+  - text: <span class="iconify" data-icon="tdesign:location-filled"></span> Kolathur, Chennai - 600099</div>
     newLine: true
 ---
 
+
+## About Me
+
+
+_**Hi, I'm Lokesh, a Computer Science enthusiast from Chennai, India. I'm passionate about technology and how it can solve real-world problems. I enjoy analyzing challenges and finding practical solutions. I stay updated with the latest tech trends by reading articles and blogs. Right now, I'm looking for internship and job opportunities to work on interesting projects and grow my skills.**_
+
+
+
+
+
+## Experiences
+
+
+**Vulture Lines Tech Management Pvt. Ltd.**  (Data Analyst Intern)
+
+
+- Developed a **Support Management Dashboard** by analyzing **2,000+** tickets to improve resolution
+time by **20%**.
+- Designed a **Data Analytics Dashboard** to track key business metrics using interactive
+visualizations.
+- Built a Dashboard using **Streamlit** to display the data in a user friendly way and enhance
+accessibility and data presentation.
+
+
+## Projects
+
+**WikiScraper :**  
+- Developed a **web scraper** using **BeautifulSoup** and **requests** packages in Python.
+- Extracts **links, paragraphs, and tables** from any Wikipedia page and stores them in seperate files
+
+**Support Management Dashboard :**  
+- Created an **interactive Streamlit dashboard** for **customer support ticket analysis**.
+- Processed **2,000+ support tickets**, utilizing **Pandas** for data processing and **Matplotlib** for
+visualizations.
+- Featured key metrics like **ticket type distribution** and **status trends**, improving response efficiency
+by **20%**
+
+**Personal Portfolio :**  
+- Designed a dark-themed portfolio using **HTML** and **CSS**.
+- Showcased 3+ projects and experiences with a fully responsive design.  
+
+
+**ACO PathFinder: Ant Colony Optimization for Smart Routing:**
+
+- Developed an **ACO-based** routing system to find the **shortest paths** in water pipeline and urban road networks.
+
+- Implemented the algorithm from scratch using **Python**, achieving **optimized route visualization** for both synthetic and real-world maps.
+
+- Integrated **OpenStreetMap data** via **OSMnx** to apply ACO in a real-world setting (Chennai, India). 
+
+
+
+
+
+
+
+
 ## Education
+
 
 **Sri Sairam Engineering College**    
     ~ West Tambaram, Chennai
 
+
 B. Tech in *Artificial Intelligence and Data Science* 2022-26  
-**CGPA:** 7.74
+
+
 
 **Everwin Matriculation Higher Secondary School**  
     ~ Kolathur, Chennai
 
-## About Me
 
-_**Hi, I'm Lokesh, a Computer Science enthusiast from Chennai, India. I'm passionate about technology and how it can solve real-world problems. I enjoy analyzing challenges and finding practical solutions. I stay updated with the latest tech trends by reading articles and blogs. Right now, I'm looking for internship and job opportunities to work on interesting projects and grow my skills.**_
 
-## Experience
-
-**Vulture Lines Tech Management Pvt. Ltd.**
-
-    ~ January 04, 2025 - January 20, 2025
-  
-- Developed a _Data Analytics Dashboard_ for Vulture Lines Tech Management Pvt. Ltd.
-- Worked on a **Support Management System** data analytics project.
-- Used **Streamlit** to make the dashboard into a responsive web application.
-
-## Projects
-
-**Smart Emergency Traffic Management System :**  
-Developed with **React**, **HTML**, **CSS**, and **JavaScript** for the frontend, and **Firebase** for the backend. Created an ambulance driver’s app featuring **map integration** and **route optimization** to improve emergency vehicle response times.  
-
-**Iris Flower Classification :**  
-Developed a machine learning model using **Pandas**, **Scikit-learn**, and **Numpy** packages in *Python* to classify iris flowers into three species. The **Support Vector Machine (SVM)** model delivered the highest accuracy among the tested classifiers.  
-
-**Support Management Dashboard :**  
-Created an interactive **Streamlit** dashboard with **Pandas** and **Matplotlib** for analyzing customer support ticket data, featuring key metrics and visualizations like ticket type distribution and status trends.
-
-**WikiScraper :**  
-Created a **Web Scraper** using **BeautifulSoup** and **requests** packages in **Python** to extract **links, paragraphs, and tables** from any Wikipedia page. 
 
 ## Technical Skills and Interests
 
-- **Programming Languages :** <span class="iconify" data-icon="vscode-icons:file-type-c"></span> C, <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python, <span class="iconify" data-icon="vscode-icons:file-type-sql"></span> SQL, <span class="iconify" data-icon="devicon-plain:bash"></span> Bash, <span class="iconify" data-icon="vscode-icons:file-type-html"></span> HTML, <span class="iconify" data-icon="vscode-icons:file-type-css"></span> CSS
 
-- **Tools :**     <span class="iconify" data-icon="logos:visual-studio-code"></span> Visual Studio Code, <span class="iconify" data-icon="logos:git-icon"></span> Git, <span class="iconify" data-icon="mdi:github"></span> GitHub, <span class="iconify" data-icon="vscode-icons:file-type-jupyter"></span> Jupyter Notebook,    <span class="iconify" data-icon="vscode-icons:file-type-excel"></span> MS Excel
+**Programming Languages :** C, Python, Bash, HTML
 
-- **Interests :**  Data Analytics, Bash Scripting, Virtualization (Virtual Machines), <span class="iconify" data-icon="devicon:debian"></span> Linux (Debian), 
+**Tools :** Visual Studio Code, Git, GitHub, MS Excel
 
-    <span class="iconify" data-icon="devicon:anaconda"></span> Anaconda (Miniconda)
+**Interests :** Data Analytics, Data Visualization, Bash Scripting, Linux (Debian and Fedora), Anaconda
+
