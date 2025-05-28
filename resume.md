@@ -9,7 +9,7 @@ header:
     link: https://github.com/git-lokesh
   - text: <span class="iconify" data-icon="uiw:linkedin"></span> Lokesh D
     link: https://www.linkedin.com/in/lokesh-d-191266258
-  - text: <span class="iconify" data-icon="icon-park-solid:computer"></span> Portfolio
+  - text: <span class="iconify" data-icon="streamline-flex:cloud-solid"></span> Portfolio
     link: https://git-lokesh.github.io/website/
   - text: <span class="iconify" data-icon="tdesign:location-filled"></span> Kolathur, Chennai - 600099</div>
     newLine: true
